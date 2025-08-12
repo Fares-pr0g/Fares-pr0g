@@ -9,4 +9,4 @@
 - 👯 I’m looking to collaborate on full-stack ML projects
 - 📫 How to reach me: [elabed.fares.2004@gmail.com](mailto:elabed.fares.2004@gmail.com)
 
-[![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fares-pr0g)](https://github.com/anuraghazra/github-readme-stats)
+[![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fares-pr0g&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
