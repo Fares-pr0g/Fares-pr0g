@@ -1,8 +1,8 @@
 
 # 👋 Hi there, I'm Fares!
 ## 💫 About Me:
-🔭 I’m currently working on a movie lister app! Stay tuned for deployment!!<br>
-🌱 I’m currently learning Node.js and express.js<br>
+🔭 I’m currently taking new courses in ML!!<br>
+🌱 I’m currently learning CNN's and computer vision<br>
 👯 I’m looking to collaborate on full-stack ML projects<br>
 📫 How to reach me: elabed.fares.2004@gmail.com
 
